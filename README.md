@@ -1,6 +1,3 @@
-# zhidkost
-<!DOCTYPE html>
-<html lang="ru">
 <head>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <title>Легендарные вейп жидкости</title>
